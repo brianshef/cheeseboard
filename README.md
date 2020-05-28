@@ -1,6 +1,6 @@
 # Cheeseboard
 
-git remote add origin git@github.com:brianshef/cheeseboard.git
+Generate a random cheese. Fun!
 
 ## Instructions
 
